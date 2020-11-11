@@ -21,9 +21,9 @@ Download stable SonarQube version from below website.
 Download & unzip SonarQube 6.0
 ```sh
 # cd /opt
-# wget https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-6.0.zip
-# unzip sonarqube-6.0.zip
-# mv /opt/sonarqube-6.0 /opt/sonar
+# wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.6.zip
+# unzip sonarqube-7.6.zip
+# mv /opt/sonarqube-7.6 /opt/sonar
 ```
 Allow RDS instance security group to access SonarQube server 
 
